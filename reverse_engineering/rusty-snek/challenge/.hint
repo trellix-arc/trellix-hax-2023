@@ -1,0 +1,1 @@
+Rust is hard to reverse engineer, it may make more sense to dynamically debug or patch the application and attempt to "slow" the snake down.

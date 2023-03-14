@@ -1,0 +1,7 @@
+source "/home/squinn/Documents/clones/esp-idf/components/efuse/Kconfig"
+source "/home/squinn/Documents/clones/esp-idf/components/esp32/Kconfig"
+source "/home/squinn/Documents/clones/esp-idf/components/esp_common/Kconfig"
+source "/home/squinn/Documents/clones/esp-idf/components/esp_system/Kconfig"
+source "/home/squinn/Documents/clones/esp-idf/components/log/Kconfig"
+source "/home/squinn/Documents/clones/esp-idf/components/newlib/Kconfig"
+source "/home/squinn/Documents/clones/esp-idf/components/spi_flash/Kconfig"

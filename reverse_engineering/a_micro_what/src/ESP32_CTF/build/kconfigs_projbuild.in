@@ -1,0 +1,5 @@
+source "/home/squinn/Documents/clones/esp-idf/components/app_update/Kconfig.projbuild"
+source "/home/squinn/Documents/clones/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/squinn/Documents/clones/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/squinn/Documents/clones/esp-idf/components/partition_table/Kconfig.projbuild"
+source "/home/squinn/Documents/PlatformIO/Projects/ESP32_CTF_idf/ESP32_CTF/components/arduino/Kconfig.projbuild"

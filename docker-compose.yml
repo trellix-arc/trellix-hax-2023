@@ -1,0 +1,28 @@
+version: "3.9"
+
+services:
+  free-yo-radicals-part-i:
+    build: ./reverse_engineering/free-yo-radicals-part-i/src/docker
+    ports:
+      - 8001:9999
+  free-yo-radicals-part-ii:
+    build: ./exploitation/free-yo-radicals-part-ii/src/docker
+    ports:
+      - 8002:9999
+  free-yo-radicals-part-iii:
+    build: ./exploitation/free-yo-radicals-part-iii/src/docker
+    ports:
+      - 8003:9999
+  reachable-fruit:
+    build: ./exploitation/reachable-fruit/src/docker
+    ports:
+      - 8004:80
+  we-need-to-break-free:
+    build: ./web/we_need_to_break_free/src/docker
+    ports:
+      - 8005:5000
+  symbolic-victory:
+    build: ./reverse_engineering/symbolic_victory/src/docker
+    ports:
+      - 8006:8000
+

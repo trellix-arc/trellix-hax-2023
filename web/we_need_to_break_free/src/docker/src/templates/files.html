@@ -1,0 +1,22 @@
+<ul>
+	<form action="{{ url_for('compute_hash') }}" method="post">
+    	<input type="submit" name="computeHash" value="checksum" />
+    	 <label for="files">Choose a file:</label>
+
+	<select name="computeHashDropDown">
+  	{% for file in just_files %}
+        <option value="{{ (request.path + '/' if request.path != '/' else '') + file }}">
+            {{ (request.path + '/' if request.path != '/' else '') + file }}
+        </option>
+    {% endfor %}
+	</select> 
+	</form>
+
+    {% for file in files %}
+    <li>
+        <a href="{{ (request.path + '/' if request.path != '/' else '') + file }}">
+            {{ (request.path + '/' if request.path != '/' else '') + file }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>

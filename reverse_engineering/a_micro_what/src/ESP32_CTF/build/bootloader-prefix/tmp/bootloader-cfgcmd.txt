@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DSDKCONFIG=/home/squinn/Documents/PlatformIO/Projects/ESP32_CTF_idf/ESP32_CTF/sdkconfig;-DIDF_PATH=/home/squinn/Documents/clones/esp-idf;-DSECURE_BOOT_SIGNING_KEY=/home/squinn/Documents/PlatformIO/Projects/ESP32_CTF_idf/ESP32_CTF;-DEXTRA_COMPONENT_DIRS=/home/squinn/Documents/clones/esp-idf/components/bootloader;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

@@ -1,0 +1,3 @@
+[submodule "src/ESP32_CTF/components/arduino"]
+	path = src/ESP32_CTF/components/arduino
+	url = https://github.com/espressif/arduino-esp32.git

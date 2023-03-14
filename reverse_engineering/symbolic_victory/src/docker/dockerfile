@@ -1,0 +1,20 @@
+FROM python:3.9-bullseye
+
+RUN apt update && apt install -y build-essential
+RUN useradd -m chal
+
+COPY ./decode.c /root/decode.c
+COPY ./server.py /home/chal/
+
+WORKDIR /root
+
+RUN pip3 install Flask
+RUN gcc decode.c -O0 -o decode
+RUN cp /root/decode /home/chal/decode && chmod 755 /home/chal/decode
+
+EXPOSE 8000
+
+USER chal
+WORKDIR /home/chal
+ENV flag="ARC{SYMb0liC_XOR_N0T_a_win_is_A_W1N}"
+CMD ["python", "/home/chal/server.py"]
