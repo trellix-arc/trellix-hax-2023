@@ -7,7 +7,13 @@ Ran from February 25th, 12:00 a.m. PST through March 11th, 12:00 a.m. PST.
 Check out the backstory [here](story.txt)!
 
 ## Winners
-*We are currently in the process of vetting the top-scoring teams to ensure they are eligible for final scoreboard placement (ensuring they aren't affiliated w/ Trellix, etc.). Once that is done, we will update this section with the official final winners.*
+|     Place    |     Team         |     Captain           |     Other Members    |     Allegiance    |
+|--------------|------------------|-----------------------|----------------------|-------------------|
+|     1st      |     TBG          |     TheBadGod         |                      |     East          |
+|     2nd      |     DeadSec      |     DeadSec           |                      |     East          |
+|     3rd      |     Quoi 2 9?    |     movrment          |                      |     East          |
+|     4th      |     jt           |     jt                |                      |     West          |
+|     5th      |     x0rc3r3rs    |     green-panda999    |     r3tZy, annexe    |     East          |
 
 You can see the find the final scoreboard [here](./final-scoreboard.md).
 
