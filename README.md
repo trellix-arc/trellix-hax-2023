@@ -4,7 +4,7 @@ Final results, solutions, and source code for Trellix HAX 2023, the latest annua
 
 Ran from February 25th, 12:00 a.m. PST through March 11th, 12:00 a.m. PST.
 
-Check out the backstory [here](story.txt)!
+Check out the backstory [here](story.md)!
 
 ## Winners
 |     Place    |     Team         |     Captain           |     Other Members    |     Allegiance    |
