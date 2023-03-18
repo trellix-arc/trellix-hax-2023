@@ -41,7 +41,7 @@ The competition featured **12** challenges across **3** categories, totalling **
 - [Rusty Snek](reverse_engineering/rusty-snek/)
 
 **400 Points**
-- [A micro what](reverse_engineering/a_micro_what/)
+- [A Micro What?](reverse_engineering/a_micro_what/)
 - [The Governor's Secret](reverse_engineering/the_governor_secret/)
 - [Classic Game Theory](reverse_engineering/classic-game-theory/)
 
@@ -56,7 +56,7 @@ The competition featured **12** challenges across **3** categories, totalling **
 - **1467** registered players.
 - **955** registered teams.
 - "We Need to Break Free" had the most solves at **255**.
-- "Reachable Fruit" had the least solves at **6**.
+- "A Micro What?" and "Reachable Fruit" had the least solves at **6**.
 - **5** teams achieved the maximum possible score of 3900.
 
 ![Solve Counts per Challenge](./img/solve-counts-per-challenge.png "Solve Counts per Challenge")
