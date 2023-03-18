@@ -4,6 +4,8 @@ Final results, solutions, and source code for Trellix HAX 2023, the latest annua
 
 Ran from February 25th, 12:00 a.m. PST through March 11th, 12:00 a.m. PST.
 
+Check our final results blog [here](https://www.trellix.com/en-us/about/newsroom/stories/research/trellix-hax-2023-capture-the-flag-results.html)!
+
 Check out the backstory [here](story.md)!
 
 ## Winners
